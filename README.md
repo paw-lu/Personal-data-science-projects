@@ -5,7 +5,7 @@ Here are a few personal data science projects I've worked on. They range from ba
 
 ## Machine learning
 
-### [Evaluating loans](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Loan%20evaluation/Loans.ipynb)
+### [Loan risk evaluator](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Loan%20evaluation/Loans.ipynb)
 Predicting whether an individual will pay back a loan in full using logistic regression.
 
 ### [Predicting the stock market](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Predicting%20the%20stock%20market/Predicting%20the%20stock%20market.ipynb)
