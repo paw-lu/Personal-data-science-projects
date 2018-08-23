@@ -41,8 +41,6 @@ Analyzing music sales using SQL queries and visualizing trends.
 
 ## Exploratory and visualization
 
-###[Analyzing Thanksgiving dinner](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Analyzing%20Thanksgiving%20Dinner/Basics.ipynb)
-Exploring the different types of Thanksgiving dinners people have depending on attributes like their income or age.
 
 ### [Visualizing earnings based on college majors](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
 Visualizing salaries of different college majors and genders.
@@ -50,5 +48,11 @@ Visualizing salaries of different college majors and genders.
 ### [Visualizing the gender gap in college degrees](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb)
 Extending the work from the previous project by studying how the gender gap has changed over time with respect to different college majors.
 
+### [Analyzing NYC high school data]()
+Analyzing NYC high school data and how it correlates to standardized testing (AP and SAT) scores.
+
 ### [Star Wars survey](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Star%20Wars%20Survey/Basics.ipynb)
 Analyzing survey results on people's opinions on Star Wars movies
+
+### [Analyzing Thanksgiving dinner](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Analyzing%20Thanksgiving%20Dinner/Basics.ipynb)
+Exploring the different types of Thanksgiving dinners people have depending on attributes like their income or age.
