@@ -20,6 +20,8 @@ Using linear regression to predict home sale prices in Ames, Iowa.
 ### [Predicting bike rentals](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Predicting%20bike%20rentals/Basics.ipynb)
 Using a random forest model to predict bike rentals in Washington, D.C. at different hours of the day.
 
+### [Titanic](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Titanic/Final%20model%20(putting%20it%20together)/Basics.ipynb)
+Used random forest to predict if people onboard the Titanic survived the sinking.
 
 ## Statistics
 
