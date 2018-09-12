@@ -67,3 +67,6 @@ Basic exploratory work on analyzing gun deaths in the United States.
 
 ### [Exploring US births](https://github.com/pscosta5/Personal-data-science-projects/blob/master/Explore%20U.S.%20Births/Basics.ipynb)
 Basic exploratory work on birthdays in the United States.
+
+### [School data](https://github.com/pscosta5/Personal-data-science-projects/blob/master/School%20data/KIPP%20work%20sample%20%E2%80%93%20Paulo%20S%20Costa%20(1).ipynb)
+Cleaning, processing, and visualizing test score, student, and teacher data.
